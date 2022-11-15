@@ -1,0 +1,15 @@
+C:\Users\SundusD\Desktop\Pratikler\Arraylist\bin\Debug\net6.0\Arraylist.exe
+C:\Users\SundusD\Desktop\Pratikler\Arraylist\bin\Debug\net6.0\Arraylist.deps.json
+C:\Users\SundusD\Desktop\Pratikler\Arraylist\bin\Debug\net6.0\Arraylist.runtimeconfig.json
+C:\Users\SundusD\Desktop\Pratikler\Arraylist\bin\Debug\net6.0\Arraylist.dll
+C:\Users\SundusD\Desktop\Pratikler\Arraylist\bin\Debug\net6.0\Arraylist.pdb
+C:\Users\SundusD\Desktop\Pratikler\Arraylist\obj\Debug\net6.0\Arraylist.csproj.AssemblyReference.cache
+C:\Users\SundusD\Desktop\Pratikler\Arraylist\obj\Debug\net6.0\Arraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SundusD\Desktop\Pratikler\Arraylist\obj\Debug\net6.0\Arraylist.AssemblyInfoInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\Arraylist\obj\Debug\net6.0\Arraylist.AssemblyInfo.cs
+C:\Users\SundusD\Desktop\Pratikler\Arraylist\obj\Debug\net6.0\Arraylist.csproj.CoreCompileInputs.cache
+C:\Users\SundusD\Desktop\Pratikler\Arraylist\obj\Debug\net6.0\Arraylist.dll
+C:\Users\SundusD\Desktop\Pratikler\Arraylist\obj\Debug\net6.0\refint\Arraylist.dll
+C:\Users\SundusD\Desktop\Pratikler\Arraylist\obj\Debug\net6.0\Arraylist.pdb
+C:\Users\SundusD\Desktop\Pratikler\Arraylist\obj\Debug\net6.0\Arraylist.genruntimeconfig.cache
+C:\Users\SundusD\Desktop\Pratikler\Arraylist\obj\Debug\net6.0\ref\Arraylist.dll
